@@ -1,0 +1,16 @@
+Version History
+
+Version 1.0
+- Initial GitHub landing page published.
+- QR code tested and linked to GitHub Pages.
+
+Version 1.1 GOLD – July 2026
+- Title changed to Founding Chairman.
+- PHF reduced to a discreet post-nominal.
+- Page title changed to The Rotary Journey of Jos Weemaes.
+- Main section changed to Projects and Partnerships.
+- Added Wheelchair Mobility Project with team-focused wording.
+- Added Water Sustainability Project using original concept drawing.
+- Added Recent Project Activities placeholder.
+- Added revised Peace Bell quotation:
+  "Let the sound of this Peace Bell serve as a gentle reminder that the journey towards peace begins within each of us."
